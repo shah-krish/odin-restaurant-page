@@ -19,3 +19,17 @@ nav button{
     color: #FAF3E0;
     width: 100px;
 }
+.heading{
+    display: grid;
+    color: #FAF3E0;
+    font-size: 3rem;
+    font-weight: 900;
+    justify-content: center;
+    margin-bottom: 0px;
+}
+.subHeading{
+    display:grid;
+    color: white;
+    justify-content: center;
+    font-size: 1.5rem;
+}
