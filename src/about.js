@@ -1,6 +1,7 @@
 import './styles.css';
 export default function aboutModule(){
     const content = document.getElementById("content");
+    content.innerHTML = "";
 
     const heading = document.createElement("div");
     heading.className = "heading";
