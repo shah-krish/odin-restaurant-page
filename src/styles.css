@@ -26,10 +26,17 @@ nav button{
     font-weight: 900;
     justify-content: center;
     margin-bottom: 0px;
+    place-items: center;
 }
 .subHeading{
     display:grid;
     color: white;
     justify-content: center;
     font-size: 1.5rem;
+    width: 50%;
+}
+#content {
+    display: grid;
+    place-items: center; 
+   
 }
